@@ -1,0 +1,94 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>POL10K Meme Coin</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #0e0e0e;
+      color: #fff;
+    }
+    header {
+      background: linear-gradient(90deg, #f7931a, #ff5e5e);
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #f7931a;
+    }
+    .tokenomics ul {
+      list-style: none;
+      padding: 0;
+    }
+    .tokenomics li {
+      background: #1a1a1a;
+      padding: 10px;
+      margin-bottom: 10px;
+      border-left: 5px solid #f7931a;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #1c1c1c;
+    }
+    a {
+      color: #f7931a;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>POL10K</h1>
+    <p>The Meme Coin Born for the Solana Community</p>
+  </header>  <section>
+    <h2>About POL10K</h2>
+    <p>
+      POL10K is not just another meme coin — it's a movement. Built on the ultra-fast, low-cost Solana blockchain, POL10K brings humor, hype, and high energy to the world of crypto. We believe in fun, fairness, and fueling a vibrant online community. Our mission is simple: unite degens, meme lovers, and early adopters in one unstoppable force.
+    </p>
+  </section>  <section class="tokenomics">
+    <h2>Tokenomics</h2>
+    <ul>
+      <li>1,000,000,000 Total Supply</li>
+      <li>50% Community & Liquidity</li>
+      <li>25% Airdrops & Giveaways</li>
+      <li>15% Team & Development</li>
+      <li>10% Marketing & Partnerships</li>
+    </ul>
+  </section>  <section>
+    <h2>Roadmap</h2>
+    <ul>
+      <li><strong>Phase 1:</strong> Website Launch, Build Community</li>
+      <li><strong>Phase 2:</strong> Airdrops, Meme Contests, Token Listing</li>
+      <li><strong>Phase 3:</strong> Partnerships, CEX Listing, DEX Tracking</li>
+      <li><strong>Phase 4:</strong> Merch, DAO Voting, Ecosystem Expansion</li>
+    </ul>
+  </section>  <section>
+    <h2>How to Join</h2>
+    <p>
+      Get ready for liftoff! POL10K is launching soon on Solana. Stay connected and be early:
+    </p>
+    <p>
+      <a href="https://x.com/POL10K?t=PB9L-uouhq6XVzGx3ZJZtw&s=09" target="_blank">Follow us on Twitter</a> | 
+      <a href="https://t.me/+eJjgMOiuCRoyMzc8" target="_blank">Join Telegram</a>
+    </p>
+  </section>  <footer>
+    <p>© 2025 POL10K. All rights reserved. Launch date: TBA.</p>
+  </footer>
+</body>
+</html
